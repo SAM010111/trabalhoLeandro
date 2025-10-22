@@ -108,7 +108,7 @@
             <p><strong>PHP Versão:</strong> <?php echo phpversion(); ?></p>
             <p><strong>Servidor:</strong> <?php echo $_SERVER['SERVER_SOFTWARE']; ?></p>
             <p><strong>Data/Hora:</strong> <?php echo date('d/m/Y H:i:s'); ?></p>
-            <span class="status success">✓ PHP Funcionando</span>
+            <span class="status success">✓ JAVA Funcionando</span>
         </div>
 
         <div class="info-box">
